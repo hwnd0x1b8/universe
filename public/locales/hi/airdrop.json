@@ -4,7 +4,7 @@
   "logout": "लॉगआउट",
   "referral": "एक मित्र को आमंत्रित करें",
   "unclaimedGems": "अदावा किए गए रत्न",
-  "inviteFirends": "मित्रों को आमंत्रित करें",
+  "inviteFriends": "मित्रों को आमंत्रित करें",
   "invitedAmount": "आपने <span>{{count}}</span> मित्रों को आमंत्रित किया है",
   "nextTierBonus": "<strong>{{count}} मित्रों</strong> को आमंत्रित करें और {{bonusGems}} बोनस रत्न कमाएं",
   "claimGems": "रत्नों का दावा करें",

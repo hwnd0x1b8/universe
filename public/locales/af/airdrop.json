@@ -4,7 +4,7 @@
   "logout": "Teken uit",
   "referral": "Nooi \"n vriend",
   "unclaimedGems": "Ongeëisde Edelstene",
-  "inviteFirends": "Nooi Vriende",
+  "inviteFriends": "Nooi Vriende",
   "invitedAmount": "U het <span>{{count}}</span> vriende genooi",
   "nextTierBonus": "Nooi <strong>{{count}} vriende</strong> & verdien {{bonusGems}} bonus edelstene",
   "claimGems": "Eis Edelstene",

@@ -4,7 +4,7 @@
   "logout": "Déconnexion",
   "referral": "Inviter un ami",
   "unclaimedGems": "Gemmes non réclamés",
-  "inviteFirends": "Inviter des amis",
+  "inviteFriends": "Inviter des amis",
   "inviteFriendsText": "Copier le lien et le partager",
   "invitedAmount": "Tu as invité <span>{{count}}</span> ami(s)",
   "nextTierBonus": "Invitez <strong>{{count}} ami(s)</strong> et gagnez {{bonusGems}} gemme(s) bonu(s)",

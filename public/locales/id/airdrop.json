@@ -4,7 +4,7 @@
   "logout": "Keluar",
   "referral": "Undang teman",
   "unclaimedGems": "Permata yang Belum Diklaim",
-  "inviteFirends": "Undang Teman",
+  "inviteFriends": "Undang Teman",
   "invitedAmount": "Anda telah mengundang <span>{{count}}</span> teman",
   "nextTierBonus": "Undang <strong>{{count}} teman</strong> & dapatkan {{bonusGems}} permata bonus",
   "claimGems": "Klaim Permata",

@@ -12,7 +12,7 @@
   },
   "airdropGame": "Airdrop Oyunu",
   "unclaimedGems": "Talep Edilmemiş Taşlar",
-  "inviteFirends": "Arkadaşları Davet Et",
+  "inviteFriends": "Arkadaşları Davet Et",
   "invitedAmount": "<span>{{count}}</span> arkadaş davet ettiniz",
   "nextTierBonus": "<strong>{{count}} arkadaş</strong> davet et ve {{bonusGems}} bonus taş kazan",
   "claimGems": "Taşları Talep Et",

@@ -4,7 +4,7 @@
   "logout": "Выйти",
   "referral": "Пригласить друга",
   "unclaimedGems": "Неполученные гемы",
-  "inviteFirends": "Пригласить друзей",
+  "inviteFriends": "Пригласить друзей",
   "invitedAmount": "Вы пригласили <span>{{count}}</span> друзей",
   "nextTierBonus": "Пригласите <strong>{{count}} друзей</strong> и получите {{bonusGems}} бонусных гемов",
   "claimGems": "Получить гемы",

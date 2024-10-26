@@ -4,7 +4,7 @@
   "logout": "로그아웃",
   "referral": "친구 초대",
   "unclaimedGems": "미수령 보석",
-  "inviteFirends": "친구 초대",
+  "inviteFriends": "친구 초대",
   "invitedAmount": "당신은 <span>{{count}}</span>명의 친구를 초대했습니다",
   "nextTierBonus": "<strong>{{count}}명의 친구</strong>를 초대하고 {{bonusGems}}개의 보너스 보석을 받으세요",
   "claimGems": "보석 받기",

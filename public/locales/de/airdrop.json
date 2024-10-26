@@ -4,7 +4,7 @@
   "logout": "Ausloggen",
   "referral": "Freund einladen",
   "unclaimedGems": "Nicht beanspruchte Edelsteine",
-  "inviteFirends": "Freunde einladen",
+  "inviteFriends": "Freunde einladen",
   "inviteFriendsText": "Link kopieren und teilen",
   "invitedAmount": "Du hast <span>{{count}}</span> Freunde eingeladen",
   "nextTierBonus": "Lade <strong>{{count}} Freunde</strong> ein und erhalte {{bonusGems}} Bonus-Edelsteine",

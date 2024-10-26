@@ -12,7 +12,7 @@
   "airdropGame": "空投游戏",
   "referral": "邀请朋友",
   "unclaimedGems": "未领取的宝石",
-  "inviteFirends": "邀请朋友",
+  "inviteFriends": "邀请朋友",
   "invitedAmount": "您已邀请<span>{{count}}</span>位朋友",
   "nextTierBonus": "邀请<strong>{{count}}位朋友</strong>并赚取{{bonusGems}}个奖励宝石",
   "claimGems": "领取宝石",

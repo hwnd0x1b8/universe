@@ -4,7 +4,7 @@
   "logout": "ログアウト",
   "referral": "友達を招待",
   "unclaimedGems": "未請求のジェム",
-  "inviteFirends": "友達を招待",
+  "inviteFriends": "友達を招待",
   "invitedAmount": "あなたは<span>{{count}}</span>人の友達を招待しました",
   "nextTierBonus": "<strong>{{count}}人の友達</strong>を招待して、{{bonusGems}}ボーナスジェムを獲得",
   "claimGems": "ジェムを請求",

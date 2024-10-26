@@ -8,7 +8,7 @@
   "airdropGame": "Gra Airdrop",
   "referral": "Zaproś znajomego",
   "unclaimedGems": "Nieodebrane klejnoty",
-  "inviteFirends": "Zaproś znajomych",
+  "inviteFriends": "Zaproś znajomych",
   "invitedAmount": "Zaprosiłeś <span>{{count}}</span> znajomych",
   "nextTierBonus": "Zaproś <strong>{{count}} znajomych</strong> i zdobądź {{bonusGems}} dodatkowych klejnotów",
   "claimGems": "Odbierz klejnoty",
